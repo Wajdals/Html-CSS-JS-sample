@@ -1,0 +1,26 @@
+.sp {}
+.er {}
+.mo {}
+.ma {}
+.bigA {text-align:center;  font-size: 85px ; color: white  ;float: left ; margin-left: 380px ; }
+
+.bigE {text-align:center; font-size: 85px ; color: white  ;float: left ; margin-left: 320px ; }
+
+.bigM {text-align:center; font-size: 85px ; color: white  ;float: left ; margin-left: 370px ; }
+
+.big {text-align:center; font-size: 60px ; color: white ;float: left ; margin-left: 265px ;}
+
+.cont{border: 3px inset black ; background-color: lavenderblush; text-align: center ; width: 697px ; height: 650px; display: inline-block ; margin-left: 300px ;padding: 10px }
+
+.wrp{margin: 0; width: 400px  ; text-align: center}
+
+nav li {list-style: none;   padding: 15px; display: inline-block; background-color: white; border: 3px inset black; width: 200px; font-size: 20px; font-weight: bold; text-align: center; margin-top: 20px ; float: center  }
+
+nav a {text-decoration: none; color: black; }
+
+li:hover {background-color: grey;}
+
+a { color: dimgrey; text-decoration: none ;  font-size: 20px}
+
+
+.tall {border: 3px inset black ; background-color: black; text-align: center ; width: 225px ; height: 550px; display: flex; float: right;padding: 10px }
